@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A loyal appeal to the Protestant dissenters, who unjustly complain of a present persecution.</title>
+            <author>W. R.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43755</idno><idno type="EEBO-CITATION">767618622</idno>
+  <idno type="VID">212636</idno>
+  <idno type="EEBO-PROQUEST">2240871641</idno>
+  
+            <idno type="OCLC"> 767618622</idno>
+            <idno type="OCLC">ocn 767618622</idno>
+            <idno type="STC">Wing R97A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212636)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3024:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A loyal appeal to the Protestant dissenters, who unjustly complain of a present persecution.</title>
+                  <author>W. R.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W.R.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Edinburgh University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="topical_term">Persecution --  England --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Sources --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212636:1"/>
+            <pb facs="tcp:212636:2"/>
+            <pb facs="tcp:212636:2"/>
+            <head>A LOYAL APPEAL TO THE Protestant Dissenters, Who Unjustly Complain of a PRESENT PERSECUTION.</head>
+            <p>CErtainly it can never be forgotten, That (to the great dishonour of this Nation) in the late distracted times, the Dissenting party from the Church of <hi>England,</hi> under the specious pretences of Religion and Liberty, (a constant Cloak of Rebellion) not only barbarously Murdered the best of Kings, destroying thereby for some time as much as in them lay, the Ancient and wholesome Government of Monarchy it self; under which this Nation for some Ages hath been most prosperous and happy; But likewise pull'd down Bishops, silencing them, and all the honest Orthodox Clergy, dividing the Crown and Church-Lands by good pennyworths among themselves, as a convenient Inheritance, only fit for the Godly (as they termed each other) to enjoy.</p>
+            <p>After which upon his Majesties blessed Restauration, he was graciously pleased to grant them an Act of <hi>Indempnity,</hi> pardoning many of those very persons, who had been active in destroying his Royal Father of blessed memory; endeavouring also as much as in them lay to keep him from his just right of Inheritance, and to extirpate the whole family, Root and Branch: (as they zealously ingaged by wicked Oathes) taking away the Estates, plundering, Imprisoning, Banishing, and putting to death (in cold blood) many of the true hearted Nobility, Clergy, and Gentry; by an Arbitrary Power, contrary to (and against) the known Lawes of the Land, for no other Crime, but being Loyal.</p>
+            <p>Since which, his Majestie Indulged those Dissenters with a liberty to have their private meetings in all places; his party being likewise (as Charitable Christians, and good men) willing to forget many past injuries, treating them with all imaginable friendship, both in neighbourhood and conversation, hoping thereby in time to bring them from their seditious principles into the bosome of our Holy Mother the Church; and to their due obedience to so merciful a Prince.</p>
+            <p>Notwithstanding which, on the contrary it evidently appears, no Act of <hi>Indulgence</hi> (or kindness) whatever, can or will oblige them, to be obedient or morally civil; for no sooner was there a late hope of playing their old Game, but they immediatly unmask themselves, boldly flying as much as in them lay in the face of Authority, by their scandalous libells and seditious discourse in all places: Thereby endeavouring to corrupt (with ill principles) the minds of many well meaning Subjects, combining in all places to get power into their hands, and to promote in Elections, both public and private, all such
+<pb facs="tcp:212636:3"/> persons though never so ignorant, or unqualified, as they believe to be favourers of, or inclinable to their faction.</p>
+            <p>So that had not the prudence of his sacred Majestie timely prevented their wicked designes, by stopping them in their full Cariere, we might possibly before this day, have fallen into a sad relapse, and been again at their Mercy, which is no better than Misery and Thraldome, as by woful experience hath been felt.</p>
+            <p>But now that the Laws are timely put in Execution, to secure our happy Peace and Government, they have no other Language in their mouths, but <hi>Persecuti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is come upon the Saints.</hi> Not looking back upon (or considering) their ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Actions for several years continuance, when so much Villiany and Cruelty was committed by them, against and contrary to all known Law or Justice whatever; dissembling all their false and perfidious dealings, with a plausible pretence of Liberty, and Reformation in Church and State: And yet in that very time for near twenty years Rebellion, where was the Subjects liberty and property? (so much discours'd of now) was it not utterly destroy'd and lost▪ and by a usurp'd power plac'd in the hands of known Mechanicks, and unreaso<g ref="char:EOLhyphen"/>nable men, supported by a Mercenary standing Army?</p>
+            <p>So that let the world, nay these very pretended Reformers themselves, impartially judge, who may most justly and truly be Branded with <hi>Persecution!</hi> They in the late times for Committing such horrid impieties before mentioned, against and without Law: Or those at this time who have a legal Authority to put them in Execution, as in duty bound, to preserve the common Peace. Heartily wishing that the very persons, (at least the misled Number of them) would seriously consider the happy Government they and we live under, and not continue in a willfull obstinate disobedience to the same: But rather joy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with us both in heart and hand, to defend those Lawes (as we are Obliged) with our Lives and Fortunes, which give us an assurance (if it be not our ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faults) to enjoy Peace and Plenty, with what ever otherwise is near and dear unto us, under a most Gracious and Indulgent King, whom God long preserve to Reign over us: And let all the people say, <hi>AMEN.</hi>
+            </p>
+            <closer>
+               <signed>W. R.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joseph Hindmarsh,</hi> 1681.</p>
+            <pb facs="tcp:212636:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
